@@ -6,4 +6,4 @@ pandas
 numpy
 requests
 branca
-python 3.12
+eurostat
